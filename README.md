@@ -24,7 +24,7 @@ npm run build --report
 * [Always allow Babel to transform expressions in templates](https://github.com/vuejs/vue/issues/6307)
 
 # Output in Browser
-![alt text](https://raw.githubusercontent.com/santoshshinde2012/ESNext-In-vue/master/static/es-next output.jpg)
+![alt text](https://raw.githubusercontent.com/santoshshinde2012/ESNext-In-vue/master/static/es-next-output.jpg)
 
 ### About Me
 
