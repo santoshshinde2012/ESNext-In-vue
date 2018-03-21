@@ -35,4 +35,6 @@ npm run build --report
  * [Medium](https://medium.com/@shindesan2012) (@shindesan2012)
 
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how things work, checkout the
+ [es6](https://webapplog.com/es6/)
+ [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
